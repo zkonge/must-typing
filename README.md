@@ -1,6 +1,6 @@
 # Must-typing
 
-Force you (or your user) annotate function types.
+Force you (or your user) annotate function type hints.
 
 **Notice: It's more like a joke, use it carefully.**
 
@@ -55,7 +55,7 @@ Once `must_typing` detect running in debugger, it would be turned off automatica
 + user defined functions
 + user defined class methods
 
-### non detect target
+### non detect targets
 
 + builtin and 3rd party module functions
 + functions written in C
